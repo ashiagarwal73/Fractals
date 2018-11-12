@@ -1,7 +1,7 @@
-<h2>Creating Fractals using OpenGl </h2>-
-1. Tree with Line as generating fractal
-2. Sierpinski triangle
-3. Tree with triangle as a generating fractal.
+<h2>Creating Fractals using OpenGl </h2></br>
+1. Tree with Line as generating fractal</br>
+2. Sierpinski triangle</br>
+3. Tree with triangle as a generating fractal.</br>
 <H3>To draw Tree with Line as base</h3>
 Download fractals_tree.cpp file</br>
 Use the following line to compile C++ program: g++ fractals_tree.cpp -lglut -lGLU -lGL </br>
